@@ -9,7 +9,6 @@ LED turns ON and OFF every second.
 Components required:
 - Arduino Uno
 - LED
-- 220 Ω Resistor
 - Breadboard
 - Jumper wires
 - USB cable
